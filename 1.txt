@@ -17,7 +17,7 @@ STELLA 2018-11-22 17:11:08 last kadr
 gcar-170127
 STELLA last kadr  2018-11-21 13:27:00  no work
 gcar-170101
-STELLA 2018-11-22 13:53:25 last kadr  
+STELLA 2018-11-23 19:27:40 last kadr  
 gcar-180303
 STELLA   last kadr
 
