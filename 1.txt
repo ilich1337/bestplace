@@ -4,7 +4,7 @@ PHONE 2018-11-27 12:54:41
 STELLA 2018-11-27 19:13:20 last kadr  
 
 gcar-180408
-last kadr 2018-11-27 16:25:42 belt 
+last kadr 2018-11-27 20:59:57 belt 
 PHONE 
 OPENTANK 2018-11-27 20:59:59
 STELLA 2018-11-27 20:51:16  last kadr 
