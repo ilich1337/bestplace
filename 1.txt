@@ -2,24 +2,25 @@
 last kadr 2018-12-03 20:59:59 belt 
 PHONE 
 2018-12-03 16:01:25 weak
-STELLA  last kadr 
+STELLA 2018-12-03 17:22:41 last kadr 
 
 gcar-180408
 last kadr 2018-12-03 13:14:50 belt 
 PHONE 
 OPENTANK 
-STELLA   last kadr 
+STELLA  2018-12-03 12:51:55 last kadr 
 
 gcar-180638 
 last kadr 2018-12-03 16:39:11 belt 
 PHONE 
 2018-12-03 07:16:46 2018-12-03 07:16:52
 OPENTANK 
-STELLA  last kadr 
+STELLA 2018-12-03 15:19:06 last kadr 
 
 gcar-180303
 last kadr 2018-12-03 09:44:16 belt 
 PHONE 
+STELLA  2018-12-02 22:53:45 last kadr
 
 gcar-180592
 last kadr no work
@@ -34,16 +35,16 @@ PHONE
 2018-12-02 23:12:20 2018-12-02 23:19:24
 2018-12-02 23:21:32 2018-12-02 23:24:36 weak
 2018-12-02 23:31:32 2018-12-02 23:33:33
-
+STELLA 2018-12-03 12:52:25 last kadr
 
 
 
 G-Car-1
 STELLA last kadr 2018-11-01 04:42:38 no work
 G-Car-2
-STELLA 2018-12-02 20:57:27 last kadr 
+STELLA 2018-12-03 10:13:22 last kadr 
 gcar-170127
-STELLA 2018-12-02 19:14:05  last kadr  
+STELLA 2018-12-03 20:13:32  last kadr  
 gcar-170101
 STELLA 2018-12-02 17:51:36 last kadr 
 gcar-180303
